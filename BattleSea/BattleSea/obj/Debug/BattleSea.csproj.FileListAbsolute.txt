@@ -1,1 +1,9 @@
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.exe.config
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.exe
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.pdb
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.Form1.resources
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
+C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
