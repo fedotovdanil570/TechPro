@@ -8,5 +8,11 @@ namespace BattleSea
 {
     class Ship
     {
+        private Pont[] Ponts;
+
+        public Ship()
+        {
+            this.Ponts = new Pont[]
+        }
     }
 }

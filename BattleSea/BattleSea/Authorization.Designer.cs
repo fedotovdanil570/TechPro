@@ -35,12 +35,17 @@
             // 
             // button2
             // 
+<<<<<<< HEAD:BattleSea/BattleSea/Authorization.Designer.cs
             this.button2.Location = new System.Drawing.Point(119, 90);
+=======
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.button2.Location = new System.Drawing.Point(87, 122);
+>>>>>>> origin/master:BattleSea/BattleSea/Form1.Designer.cs
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(152, 26);
             this.button2.TabIndex = 1;
             this.button2.Text = "Вход";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // textBox1
             // 
