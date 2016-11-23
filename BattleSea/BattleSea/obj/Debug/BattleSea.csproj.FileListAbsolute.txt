@@ -7,6 +7,11 @@ C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
+<<<<<<< HEAD
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.exe.config
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
+=======
 D:\Github\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.exe.config
 D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
 D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
@@ -16,3 +21,4 @@ D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csprojResolveAssemblyR
 D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.Form1.resources
 D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.Properties.Resources.resources
 D:\Github\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csproj.GenerateResource.Cache
+>>>>>>> refs/remotes/origin/master
