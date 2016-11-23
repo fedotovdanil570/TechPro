@@ -7,3 +7,6 @@ C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
 C:\Users\Admin\Documents\GitHub\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\bin\Debug\BattleSea.exe.config
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.exe
+C:\Users\stal\Documents\GitHub\TechhPro\TechPro\BattleSea\BattleSea\obj\Debug\BattleSea.pdb
