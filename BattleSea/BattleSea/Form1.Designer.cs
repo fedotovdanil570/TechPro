@@ -36,7 +36,7 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.button2.BackColor = System.Drawing.Color.CornflowerBlue;
             this.button2.Location = new System.Drawing.Point(87, 122);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(219, 32);
@@ -82,7 +82,6 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Авторизация";
-            
             this.ResumeLayout(false);
             this.PerformLayout();
 
